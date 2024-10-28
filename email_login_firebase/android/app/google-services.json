@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28467004648",
+    "project_id": "fir-applications-6021c",
+    "storage_bucket": "fir-applications-6021c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28467004648:android:3e18c95b9fce3ca863355d",
+        "android_client_info": {
+          "package_name": "com.shaktiemail_login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTCf12fds0hsHlfhVYNMup-9QKDKey7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
